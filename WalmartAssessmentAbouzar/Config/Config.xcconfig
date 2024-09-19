@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  WalmartAssessmentAbouzar
+//
+//  Created by Abouzar Moradian on 9/19/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+COUNTRIES_BASE_URL=gist.githubusercontent.com  
+
